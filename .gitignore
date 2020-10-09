@@ -1,0 +1,7 @@
+# python cache
+__pycache__/
+
+
+# vscode
+.vscode/
+.history/
