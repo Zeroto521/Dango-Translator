@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import json
-import webbrowser
-from os import startfile
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import *
